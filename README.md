@@ -19,14 +19,14 @@ This is a user-friendly **Java-based GUI application** that simulates a smart ca
 ### LOGIN INTERFACE 
 ![LOGIN INTERFACE](https://github.com/AgasthiDoshi/Smart_Cafe/blob/main/LOGININTERFACE.png)
 ### GUI INTERFACE 
-![LOGIN INTERFACE](https://github.com/AgasthiDoshi/Smart_Cafe/blob/main/GUI_INTERFACE.png)
+![GUI INTERFACE](https://github.com/AgasthiDoshi/Smart_Cafe/blob/main/GUI_INTERFACE.png)
 ### MENU INTERGACE 
-![LOGIN INTERFACE](https://github.com/AgasthiDoshi/Smart_Cafe/blob/main/MENU.png)
+![MENU INTERFACE](https://github.com/AgasthiDoshi/Smart_Cafe/blob/main/MENU.png)
 ### PLACING ORDER INTERFACE 
-![LOGIN INTERFACE](https://github.com/AgasthiDoshi/Smart_Cafe/blob/main/ORDER_PLACING.png)
+![ORDER PLACING INTERFACE](https://github.com/AgasthiDoshi/Smart_Cafe/blob/main/ORDER_PLACING.png)
 ### BILL GENERATION INTERFACE 
-![LOGIN INTERFACE](https://github.com/AgasthiDoshi/Smart_Cafe/blob/main/BILL_GENERATION.png)
+![BILL GENERATION INTERFACE](https://github.com/AgasthiDoshi/Smart_Cafe/blob/main/BILL_GENERATION.png)
 ### STAFF ATTENDANCE INTERFACE 
-![LOGIN INTERFACE](https://github.com/AgasthiDoshi/Smart_Cafe/blob/main/ATTENDANCE_STAFF.png)
+![STAFF ATTENDANCE INTERFACE](https://github.com/AgasthiDoshi/Smart_Cafe/blob/main/ATTENDANCE_STAFF.png)
 ### ATTENDANCE RECORDED TO EXCEL 
-![LOGIN INTERFACE]()
+![ATTENDANCE RECORD INTERFACE](https://github.com/AgasthiDoshi/Smart_Cafe/blob/main/Attendace_Record.png)
