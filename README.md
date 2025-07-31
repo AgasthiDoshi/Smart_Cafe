@@ -15,3 +15,4 @@ This is a user-friendly **Java-based GUI application** that simulates a smart ca
 - 🧑‍💼 **Staff Attendance Tracker**
 - 📊 **Attendance Logging to Excel**
 - 🪄 Clean and Responsive GUI using `Swing`
+## 📷 GUI Screenshots
