@@ -42,6 +42,6 @@ The Smart Cafe Management System demonstrates a strong understanding of Java GUI
 ### 📱 +91-7400345300
 ### 🌐 LinkedIn www.linkedin.com/in/agasthi-doshi-40b555375
 
-# Thank You. I hope you like this project.
-# If you liked the project or found it helpful, do consider sharing your feedback.
+## Thank You. I hope you like this project.
+If you liked the project or found it helpful, do consider sharing your feedback.
   
