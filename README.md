@@ -27,6 +27,6 @@ This is a user-friendly **Java-based GUI application** that simulates a smart ca
 ### BILL GENERATION INTERFACE 
 ![LOGIN INTERFACE](https://github.com/AgasthiDoshi/Smart_Cafe/blob/main/BILL_GENERATION.png)
 ### STAFF ATTENDANCE INTERFACE 
-![LOGIN INTERFACE]()
+![LOGIN INTERFACE](https://github.com/AgasthiDoshi/Smart_Cafe/blob/main/ATTENDANCE_STAFF.png)
 ### ATTENDANCE RECORDED TO EXCEL 
 ![LOGIN INTERFACE]()
