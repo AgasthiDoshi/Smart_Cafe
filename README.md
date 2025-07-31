@@ -17,7 +17,7 @@ This is a user-friendly **Java-based GUI application** that simulates a smart ca
 - 🪄 Clean and Responsive GUI using `Swing`
 ## 📷 GUI Screenshots
 ### LOGIN INTERFACE 
-![LOGIN INTERFACE]()
+![LOGIN INTERFACE](https://github.com/AgasthiDoshi/Smart_Cafe/blob/main/LOGININTERFACE.png)
 ### GUI INTERFACE 
 ![LOGIN INTERFACE](https://github.com/AgasthiDoshi/Smart_Cafe/blob/main/GUI_INTERFACE.png)
 ### MENU INTERGACE 
