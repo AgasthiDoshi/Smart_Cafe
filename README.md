@@ -8,3 +8,10 @@ This is a user-friendly **Java-based GUI application** that simulates a smart ca
 - Staff attendance (Punch In / Punch Out)
 - Secure login authentication
 - Excel export for attendance logs
+## 📌 Features
+- 🔐 **Login Authentication** (Username & Password)
+- 📋 **Interactive Menu Interface**
+- 🛒 **Order Placement Window**
+- 🧑‍💼 **Staff Attendance Tracker**
+- 📊 **Attendance Logging to Excel**
+- 🪄 Clean and Responsive GUI using `Swing`
