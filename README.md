@@ -23,7 +23,7 @@ This is a user-friendly **Java-based GUI application** that simulates a smart ca
 ### MENU INTERGACE 
 ![LOGIN INTERFACE](https://github.com/AgasthiDoshi/Smart_Cafe/blob/main/MENU.png)
 ### PLACING ORDER INTERFACE 
-![LOGIN INTERFACE]()
+![LOGIN INTERFACE](https://github.com/AgasthiDoshi/Smart_Cafe/blob/main/ORDER_PLACING.png)
 ### BILL GENERATION INTERFACE 
 ![LOGIN INTERFACE]()
 ### STAFF ATTENDANCE INTERFACE 
