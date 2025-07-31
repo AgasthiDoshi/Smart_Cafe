@@ -30,3 +30,18 @@ This is a user-friendly **Java-based GUI application** that simulates a smart ca
 ![STAFF ATTENDANCE INTERFACE](https://github.com/AgasthiDoshi/Smart_Cafe/blob/main/ATTENDANCE_STAFF.png)
 ### ATTENDANCE RECORDED TO EXCEL 
 ![ATTENDANCE RECORD INTERFACE](https://github.com/AgasthiDoshi/Smart_Cafe/blob/main/Attendace_Record.png)
+## Key Findings 
+- Digital Cafe Automation: Successfully built a GUI-based cafe management system using Java Swing to automate common operations like menu display, order processing, and staff attendance.
+- Excel-Based Attendance Logging: Implemented real-time attendance tracking where staff Punch In/Out logs are recorded directly in an Excel file for easy monitoring by the manager.
+- Structured Codebase: Modularized the code with separate Java classes for Menu, Orders, Attendance, and GUI, ensuring easy readability and maintenance.
+## Conclusion
+The Smart Cafe Management System demonstrates a strong understanding of Java GUI programming and modular application design. It provides a practical and efficient solution for small to medium-sized cafes to streamline their operations. With real-time billing, a dynamic menu, and automated staff attendance logging, this project shows potential for real-world scalability.
+## Author
+### Agasthi Doshi
+### 📧 doshiagasthi@gmail.com
+### 📱 +91-7400345300
+### 🌐 LinkedIn www.linkedin.com/in/agasthi-doshi-40b555375
+
+# Thank You. I hope you like this project.
+# If you liked the project or found it helpful, do consider sharing your feedback.
+  
